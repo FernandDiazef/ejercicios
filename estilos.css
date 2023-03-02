@@ -1,0 +1,45 @@
+body {
+    background-color: #090;
+    margin: 15px;
+}
+div {
+    border-radius: 50%;
+    padding:auto;
+}
+
+.caja1 {
+    margin:10px;
+    color:white;
+    background-image: url(https://previews.123rf.com/images/niyazz/niyazz1312/niyazz131200071/24697125-las-letras-y-los-s%C3%ADmbolos-en-el-fuego-letra-t-.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
+
+#elemet{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    opacity: .4;
+    margin:10px;
+}
+
+.caja3 {
+    width: 200px;
+    height: auto;
+    padding: 15px;
+    color:white;
+    background-color: #000;
+    border-top-color: blue;
+    border-right-color: lightgreen;
+    border-bottom-color: yellow;
+    border-left-color: orange;
+    border-style: dotted;
+    text-transform: capitalize;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-style: italic;
+    margin:10px;
+
+}  

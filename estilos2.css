@@ -1,0 +1,44 @@
+div div{
+    height: 100px;
+    background-color: red;
+    position: absolute;
+
+}
+   
+.contenedor {
+    background-color: rgb(8, 8, 116);
+    width: 300px;
+    height: 250px;
+    position: relative;
+    margin: 50px auto;
+    border: 15px solid
+}
+
+.left-top { 
+    top: 0;
+    border-right: 15px solid white ;
+    border-bottom: 15px solid white;
+    width: 85px;
+}
+
+.left-bottom {
+    bottom: 0;
+    border-top: 15px solid white;
+    border-right: 15px solid white;
+    width: 85px;
+}
+
+.right-top {
+    right: 0;
+    border-left: 15px solid white;
+    border-bottom: 15px solid white;
+    width: 165px;
+}
+
+.right-bottom {
+    right: 0;
+    bottom: 0;
+    border-left: 15px solid white;
+    border-top: 15px solid white;
+    width: 165px;
+}

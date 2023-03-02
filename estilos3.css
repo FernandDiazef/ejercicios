@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(250, 152, 114);
+
+}
+
+h2 {
+    width: 100px;
+    height: 100px; 
+    margin: 0;
+ }
+
+
+
+
+.caja1 {
+    background-color: #090;
+    float: left;
+    
+
+}
+
+.caja2 {
+    background-color: #0777;
+    float: right;
+}
+
+.caja3 {
+    background-color: #9888;
+    float: left;
+    clear:left;
+}
+  
+.caja4 {
+    background-color: aqua;
+    float: right;
+    clear:right;
+}

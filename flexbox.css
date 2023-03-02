@@ -1,0 +1,57 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    
+}
+
+
+header{
+    display: inline-block;
+    background-color: blueviolet;
+    width: auto;
+    text-align: center;
+    width: 100%;
+
+
+}
+
+div {
+    display: flex;
+    background-color: aqua;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+.first {
+    width: 200px;
+    height: 200px;
+
+}
+
+.second {
+    width: 200px;
+
+
+}
+
+
+.text {
+    width: 300px;
+
+}
+h2 {
+    margin: 0;
+
+
+}
+
+input {
+    
+}
+
+p {
+    font-size: 13px;
+
+}
